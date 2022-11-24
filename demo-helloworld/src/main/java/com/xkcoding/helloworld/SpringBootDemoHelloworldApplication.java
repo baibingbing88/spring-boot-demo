@@ -36,4 +36,5 @@ public class SpringBootDemoHelloworldApplication {
         }
         return StrUtil.format("Hello, {}!", who);
     }
+
 }
